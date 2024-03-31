@@ -13,10 +13,10 @@ Grading System:
 
 Each question is assigned a point value based on the response:
 
-Answer 1: 1 point
-Answer 2: 2 points
-Answer 3: 3 points
-Answer 4: 4 points
+- Answer 1: 1 point
+- Answer 2: 2 points
+- Answer 3: 3 points
+- Answer 4: 4 points
 
 The total points accumulated determine the individual's risk aversion level.
 Understanding the Results:
