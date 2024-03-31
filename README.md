@@ -3,13 +3,16 @@ Assessment: Investor's Risk Tolerance
 This Google Form serves as a tool to assess an individual's risk tolerance as an investor. By answering a series of questions, respondents will receive a score that indicates their risk aversion level and potential investor profile.
 
 How to Use:
+
 Accessing the Form:
 
 Access the Google Form using the provided link.
 Complete all the questions by selecting the most appropriate answer for each.
+
 Grading System:
 
 Each question is assigned a point value based on the response:
+
 Answer 1: 1 point
 Answer 2: 2 points
 Answer 3: 3 points
@@ -28,9 +31,11 @@ Interpret the score according to the following grading system:
 
 Why Use This Assessment?
 
-Tailored Investment Strategy: Understanding one's risk tolerance is crucial for developing an investment strategy that aligns with individual goals and preferences.
-Informed Decision Making: By assessing risk tolerance, investors can make informed decisions about asset allocation, investment selection, and portfolio management.
-Financial Planning: This assessment can aid financial advisors and planners in providing personalized recommendations and guidance to clients.
+- Tailored Investment Strategy: Understanding one's risk tolerance is crucial for developing an investment strategy that aligns with individual goals and preferences.
+
+- Informed Decision Making: By assessing risk tolerance, investors can make informed decisions about asset allocation, investment selection, and portfolio management.
+
+- Financial Planning: This assessment can aid financial advisors and planners in providing personalized recommendations and guidance to clients.
 
 Contributing:
 Contributions to enhance the assessment, improve questions, or refine the grading system are welcome.
